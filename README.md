@@ -1,127 +1,91 @@
 # ciet-dev-hackathon-2022
 Official Repo of Dev Hackathon 2022
 
-# Selected Projects/Ideas
+# Projects List
 
 <table>
   <tr>
-    <th>Batch No</th>
+    <th>S No</th>
     <th>Name of Project</th>
-    <th>Solution</th>
   </tr>
   <tr>
-    <td>B17</td>
-    <td>Covid19 Visualisation and Prediction</td>
-    <td></td>
+    <td>1</td>
+    <td>IoT Contactless Door Bell</td>
   </tr>
   <tr>
-    <td>B16</td>
-    <td>Alexa based IoT Control System</td>
-    <td></td>
+    <td>2</td>
+    <td>Smart Dustbin with IoT Notifications</td>
   </tr>
   <tr>
-    <td>B15</td>
-    <td>Vehicle Crash Identification System</td>
-    <td></td>
+    <td>3</td>
+    <td>IoT Car Parking System</td>
   </tr>
   <tr>
-    <td>B14</td>
-    <td>Stock Market Price Prediction using Machine Learning</td>
-    <td></td>
+    <td>4</td>
+    <td>IoT Gas Pipe Leakage System</td>
   </tr>
   <tr>
-    <td>B13</td>
-    <td>Near Duplicate Image Search</td>
-    <td></td>
+    <td>5</td>
+    <td>IoT Irrigation and Controlling using AWS</td>
   </tr>
   <tr>
-    <td>B12</td>
-    <td>AWS IoT Core Based Monitoring System</td>
-    <td></td>
+    <td>6</td>
+    <td>Air Pollution Monitoring System using IoT</td>
   </tr>
   <tr>
-    <td>B11</td>
-    <td>Fake News Detection Project</td>
-    <td></td>
+    <td>7</td>
+    <td>Weather Reporting System using IoT</td>
   </tr>
   <tr>
-    <td>B10</td>
-    <td>Creating Chatbot using Alexa</td>
-    <td></td>
+    <td>8</td>
+    <td>Smart Street Light Controlling System using AWS IoT Core</td>
   </tr>
   <tr>
-    <td>B9</td>
-    <td>Building a Serverless Web Application using API Gateway</td>
-    <td></td>
+    <td>9</td>
+    <td>Hand Gesture Based Home Automation</td>
   </tr>
   <tr>
-    <td>B8</td>
-    <td>Eye Disease Detection using Mobile Net</td>
-    <td></td>
+    <td>10</td>
+    <td>Touchless Machine Interface using IoT and Augmented Reality</td>
   </tr>
   <tr>
-    <td>B7</td>
-    <td>OCR Model for Reading Captchas</td>
-    <td></td>
+    <td>11</td>
+    <td>IoT Based Smart Surviellance System</td>
   </tr>
   <tr>
-    <td>B6</td>
-    <td>Uber Data Analysis Project</td>
-    <td></td>
+    <td>12</td>
+    <td>Dumbels Excerise Tracking System</td>
   </tr>
   <tr>
-    <td>B5</td>
-    <td>IKEA Clone App using AR </td>
-    <td></td>
+    <td>13</td>
+    <td>Greenhouse Monitoring and Controlling using IoT</td>
   </tr>
   <tr>
-    <td>B4</td>
-    <td>Fake Product Identification using Blokchain</td>
-    <td></td>
+    <td>14</td>
+    <td>Keyless Bike using IoT</td>
   </tr>
   <tr>
-    <td>B3</td>
-    <td>IoT Blockchain Based Security System for Sensors</td>
-    <td></td>
+    <td>15</td>
+    <td>Traffic Lights Based Engine Lock using IoT</td>
   </tr>
   <tr>
-    <td>B2</td>
-    <td>Resume Parser NLP Spacy Python</td>
-    <td></td>
+    <td>16</td>
+    <td>Manhole Detection System</td>
   </tr>
   <tr>
-    <td>B1</td>
-    <td>Text Summarization</td>
-    <td></td>
+    <td>17</td>
+    <td>Alcohol Detection and Notification through AWS IoT</td>
   </tr>
   <tr>
-    <td>A16</td>
-    <td>Celebrity Face Recognition using AWS</td>
-    <td></td>
+    <td>18</td>
+    <td>Locker Security System using IoT</td>
   </tr>
   <tr>
-    <td>A12</td>
-    <td>Decentralized Electronic Voting Machine</td>
-    <td></td>
+    <td>19</td>
+    <td>Help Ambulance in Traffic using IoT</td>
   </tr>
   <tr>
-    <td>A11</td>
-    <td>Face Mask Detection</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>A10</td>
-    <td>Perfomance Analysis on Student Feedback</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>A6</td>
-    <td>3D Image Classification from CT Scan</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>A1</td>
-    <td>Body Temperature Scanning System</td>
-    <td></td>
+    <td>20</td>
+    <td>Cold Storage Monitoring System using AWS IoT Core</td>
   </tr>
 </table>
