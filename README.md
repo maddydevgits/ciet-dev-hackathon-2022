@@ -57,6 +57,7 @@ Official Repo of Dev Hackathon 2022
     <td>B9</td>
     <td>Building a Serverless Web Application using API Gateway</td>
     <td>AWS</td>
+    <td>Tuesday</td>
   </tr>
   <tr>
     <td>B8</td>
