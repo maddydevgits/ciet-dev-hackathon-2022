@@ -21,8 +21,8 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>B15</td>
-    <td>Vehicle Crash Identification System</td>
-    <td>Deep Learning</td>
+    <td>Help Ambulance in Traffic using IoT</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B14</td>
@@ -41,8 +41,8 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>B11</td>
-    <td>Fake News Detection Project</td>
-    <td>Machine Learning</td>
+    <td>Weather Reporting System using IoT</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B10</td>
@@ -56,28 +56,28 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>B8</td>
-    <td>Eye Disease Detection using Mobile Net</td>
-    <td>Deep Learning</td>
+    <td>Keyless Bike using IoT</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B7</td>
-    <td>OCR Model for Reading Captchas</td>
-    <td>Deep Learning</td>
+    <td>IoT Based Smart Survilleance System</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B6</td>
-    <td>Uber Data Analysis Project</td>
-    <td>Data Science</td>
+    <td>IoT Contactless Door Bell</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B5</td>
-    <td>IKEA Clone App using AR </td>
-    <td>Augmented Reality</td>
+    <td>Greenhouse Monitoring and Controlling System</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B4</td>
-    <td>Fake Product Identification using Blokchain</td>
-    <td>Blockchain</td>
+    <td>Air Pollution Monitoring</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B3</td>
@@ -86,8 +86,8 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>B2</td>
-    <td>Resume Parser NLP Spacy Python</td>
-    <td>Machine Learning</td>
+    <td>Hand Gesture based Home Automation</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>B1</td>
@@ -96,8 +96,8 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>A16</td>
-    <td>Celebrity Face Recognition using AWS</td>
-    <td>AWS</td>
+    <td>Smart Dustbin with IoT Notifications</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>A12</td>
@@ -111,13 +111,13 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>A10</td>
-    <td>Perfomance Analysis on Student Feedback</td>
-    <td>Machine Learning</td>
+    <td>Locker Security System</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>A6</td>
-    <td>3D Image Classification from CT Scan</td>
-    <td>Deep Learning</td>
+    <td>IoT Car Parking System</td>
+    <td>IoT</td>
   </tr>
   <tr>
     <td>A1</td>
