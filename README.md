@@ -36,6 +36,7 @@ Official Repo of Dev Hackathon 2022
     <td>B13</td>
     <td>Near Duplicate Image Search</td>
     <td>Deep Learning</td>
+    <td>Tuesday</td>
   </tr>
   <tr>
     <td>B12</td>
