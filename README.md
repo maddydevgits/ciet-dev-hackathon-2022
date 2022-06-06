@@ -8,11 +8,13 @@ Official Repo of Dev Hackathon 2022
     <th>Batch No</th>
     <th>Name of Project</th>
     <th>Domain</th>
+    <th>Date</th>
   </tr>
   <tr>
     <td>B17</td>
     <td>Covid19 Visualisation and Prediction</td>
     <td>Machine Learning</td>
+    <td>Tuesday</td>
   </tr>
   <tr>
     <td>B16</td>
@@ -28,6 +30,7 @@ Official Repo of Dev Hackathon 2022
     <td>B14</td>
     <td>Stock Market Price Prediction using Machine Learning</td>
     <td>Machine Learning</td>
+    <td>Tuesday</td>
   </tr>
   <tr>
     <td>B13</td>
@@ -108,6 +111,7 @@ Official Repo of Dev Hackathon 2022
     <td>A11</td>
     <td>Face Mask Detection</td>
     <td>IoT</td>
+    <td>Tuesday</td>
   </tr>
   <tr>
     <td>A10</td>
