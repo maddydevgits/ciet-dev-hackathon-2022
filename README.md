@@ -9,12 +9,14 @@ Official Repo of Dev Hackathon 2022
     <th>Name of Project</th>
     <th>Domain</th>
     <th>Date</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>B17</td>
     <td>Covid19 Visualisation and Prediction</td>
     <td>Machine Learning</td>
     <td>Tuesday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B16</td>
@@ -32,12 +34,14 @@ Official Repo of Dev Hackathon 2022
     <td>Stock Market Price Prediction using Machine Learning</td>
     <td>Machine Learning</td>
     <td>Tuesday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B13</td>
     <td>Near Duplicate Image Search</td>
     <td>Deep Learning</td>
     <td>Tuesday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B12</td>
@@ -54,6 +58,7 @@ Official Repo of Dev Hackathon 2022
     <td>Creating Chatbot using Alexa</td>
     <td>Chatbots</td>
     <td>Tuesday</td>
+    <td>Status</td>
   </tr>
   <tr>
     <td>B9</td>
@@ -118,6 +123,7 @@ Official Repo of Dev Hackathon 2022
     <td>Face Mask Detection</td>
     <td>IoT</td>
     <td>Wednesday</td>
+    <td>Started</td>
   </tr>
   <tr>
     <td>A10</td>
