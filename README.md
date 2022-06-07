@@ -58,7 +58,7 @@ Official Repo of Dev Hackathon 2022
     <td>Creating Chatbot using Alexa</td>
     <td>Chatbots</td>
     <td>Tuesday</td>
-    <td>Status</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B9</td>
