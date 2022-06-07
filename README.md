@@ -20,6 +20,7 @@ Official Repo of Dev Hackathon 2022
     <td>B16</td>
     <td>Alexa based IoT Control System</td>
     <td>IoT</td>
+    <td>Wednesday</td>
   </tr>
   <tr>
     <td>B15</td>
@@ -58,7 +59,7 @@ Official Repo of Dev Hackathon 2022
     <td>B9</td>
     <td>Building a Serverless Web Application using API Gateway</td>
     <td>AWS</td>
-    <td>Tuesday</td>
+    <td>Wednesday</td>
   </tr>
   <tr>
     <td>B8</td>
@@ -74,6 +75,7 @@ Official Repo of Dev Hackathon 2022
     <td>B6</td>
     <td>IoT Contactless Door Bell</td>
     <td>IoT</td>
+    <td>Wednesday</td>
   </tr>
   <tr>
     <td>B5</td>
@@ -94,6 +96,7 @@ Official Repo of Dev Hackathon 2022
     <td>B2</td>
     <td>Hand Gesture based Home Automation</td>
     <td>IoT</td>
+    <td>Wednesday</td>
   </tr>
   <tr>
     <td>B1</td>
@@ -114,7 +117,7 @@ Official Repo of Dev Hackathon 2022
     <td>A11</td>
     <td>Face Mask Detection</td>
     <td>IoT</td>
-    <td>Tuesday</td>
+    <td>Wednesday</td>
   </tr>
   <tr>
     <td>A10</td>
