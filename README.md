@@ -77,6 +77,7 @@ Official Repo of Dev Hackathon 2022
     <td>B7</td>
     <td>IoT Based Smart Survilleance System</td>
     <td>IoT</td>
+    <td>Wednesday</td>
     <td>Completed</td>
   </tr>
   <tr>
