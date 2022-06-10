@@ -149,7 +149,9 @@ Official Repo of Dev Hackathon 2022
   </tr>
   <tr>
     <td>A1</td>
-    <td>Body Temperature Scanning System</td>
+    <td>Dashboard</td>
     <td>IoT</td>
+    <td>Thursday</td>
+    <td>Completed</td>
   </tr>
 </table>
