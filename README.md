@@ -75,6 +75,7 @@ Official Repo of Dev Hackathon 2022
     <td>Keyless Bike using IoT</td>
     <td>IoT</td>
     <td>Thursday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B7</td>
