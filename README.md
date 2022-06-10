@@ -29,6 +29,8 @@ Official Repo of Dev Hackathon 2022
     <td>B15</td>
     <td>Help Ambulance in Traffic using IoT</td>
     <td>IoT</td>
+    <td>Thursday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B14</td>
@@ -72,6 +74,7 @@ Official Repo of Dev Hackathon 2022
     <td>B8</td>
     <td>Keyless Bike using IoT</td>
     <td>IoT</td>
+    <td>Thursday</td>
   </tr>
   <tr>
     <td>B7</td>
@@ -101,12 +104,15 @@ Official Repo of Dev Hackathon 2022
     <td>B3</td>
     <td>IoT Blockchain Based Security System for Sensors</td>
     <td>IoT</td>
+    <td>Thursday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B2</td>
     <td>Hand Gesture based Home Automation</td>
     <td>IoT</td>
     <td>Wednesday</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>B1</td>
